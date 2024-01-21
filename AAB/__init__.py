@@ -19,9 +19,6 @@ LOG = logging.getLogger('AutoAnimeBot')
 with open("./AAB/config.json","r") as Config :
     Vars = json.load(Config)
 
-LOG.info(f"Written By : {Vars['Author']}")
-LOG.info(f"Licensed Under : {Vars["Licensed_under"]}")
-
 # VARS 
 
 try :
