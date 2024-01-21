@@ -1,7 +1,7 @@
 pyrogram
 TgCrypto
 requests
-git+https://github.com/arvidn/libtorrent
+libtorrent-python3>=1.2.5
 pymongo[srv]
 requests
 lxml
