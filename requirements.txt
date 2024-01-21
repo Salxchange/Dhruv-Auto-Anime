@@ -1,7 +1,7 @@
 pyrogram
 TgCrypto
 requests
-libtorrent-python3>=2.0.9
+libtorrent>=2.0.9
 pymongo[srv]
 requests
 lxml
