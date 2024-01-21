@@ -1,7 +1,7 @@
 pyrogram
 TgCrypto
 requests
-python3-libtorrent==2.0.9
+python3-libtorrent
 qbittorrent-api
 pymongo[srv]
 requests
