@@ -1,7 +1,7 @@
 pyrogram
 TgCrypto
 requests
-python3-libtorrent
+git+https://github.com/aria2/aria2
 qbittorrent-api
 pymongo[srv]
 requests
