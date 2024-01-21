@@ -1,1 +1,1 @@
-python3.11 -m AAB
+worker: python3.11 -m AAB
