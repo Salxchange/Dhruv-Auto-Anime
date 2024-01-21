@@ -1,6 +1,7 @@
 pyrogram
 TgCrypto
 requests
+libtorrent
 pymongo[srv]
 requests
 lxml
